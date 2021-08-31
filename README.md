@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @antony-mulwa
+- 👋 Hi, I’m antony mulwa
 - 👀 I’m interested in machine-learning,android development
 - 🌱 I’m currently learning deep learning/machine learning using tensorflow & pytorch
 - 💞️ I’m looking to collaborate on deep , machine learning & android development
